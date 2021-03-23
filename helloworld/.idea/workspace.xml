@@ -20,21 +20,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91bfcc27-24f7-44f3-8a39-51f070ff89d0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/engineering82.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Loops.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../SQL notes.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../SQL notes.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/helloworld.iml" beforeDir="false" afterPath="$PROJECT_DIR$/helloworld.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloworld/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/helloworld/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../~$L notes.docx" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -86,8 +89,29 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1616422315094">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1600.596.1600.860@0.0.1920.1040" timestamp="1616422315094" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1616422315094">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/-1600.596.1600.860@0.0.1920.1040" timestamp="1616422315094" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1616422315094">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/-1600.596.1600.860@0.0.1920.1040" timestamp="1616422315094" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1616422315094">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/-1600.596.1600.860@0.0.1920.1040" timestamp="1616422315094" />
+    <state x="342" y="140" key="new project wizard" timestamp="1616422312960">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="140" key="new project wizard/0.0.1920.1040/-1600.596.1600.860@0.0.1920.1040" timestamp="1616422312960" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1616156230874">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
