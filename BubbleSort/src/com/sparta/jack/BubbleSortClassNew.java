@@ -1,9 +1,8 @@
 package com.sparta.jack;
 public class BubbleSortClassNew {
     public static int[] bubbleSort(int[] numberArray){
-        boolean isLoopSorted = false;
         System.out.println(numberArray.toString());
-        int passes = 0;
+        int passes=0 , swaps= 0;
         boolean hasSwapOccurred;
         do {
             hasSwapOccurred = false;
@@ -15,13 +14,15 @@ public class BubbleSortClassNew {
                     numberArray[i] = numberArray[i+1];
                     numberArray[i+1] = holderVar;
                     hasSwapOccurred = true;
-                } else if(numberArray[i] < numberArray[i+1]){
+                    swaps++;
+                } else {
                     System.out.println(numberArray[i]+ " is not greater than "+ numberArray[i+1]);
                 }
             }
             passes++;
         } while (hasSwapOccurred == true);
         System.out.println("Passes:"+passes);
+        System.out.println("swaps:"+swaps);
         return numberArray;
     }
 }
