@@ -1,7 +1,7 @@
 package com.sparta.jack;
 
 public class BubbleSortClass {
-
+// old method, i think this is less efficient than the new version
     public static int[] bubbleSort(int[] numberArray){
         boolean isLoopSorted = false;
         System.out.println(numberArray.toString());

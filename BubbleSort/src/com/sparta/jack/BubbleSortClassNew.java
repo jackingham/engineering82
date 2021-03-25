@@ -1,6 +1,7 @@
 package com.sparta.jack;
-public class BubbleSortClassNew {
-    public static int[] bubbleSort(int[] numberArray){
+public class BubbleSortClassNew implements Sorter {
+
+    public int[] sortArray(int[] numberArray){
         System.out.println(numberArray.toString());
         int passes=0 , swaps= 0;
         boolean hasSwapOccurred;

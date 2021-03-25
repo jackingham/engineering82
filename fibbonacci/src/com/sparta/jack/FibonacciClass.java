@@ -11,9 +11,3 @@ public class FibonacciClass {
 }
 
 
-static {
-    //this runs once when the class is loaded
-        }
-        {
-            //this runs when a new object is initialised
-        }

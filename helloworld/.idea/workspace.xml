@@ -20,12 +20,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91bfcc27-24f7-44f3-8a39-51f070ff89d0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/Loops.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SQL notes.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../SQL notes.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PalindromeChecker/src/com/sparta/jack/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortManagerProject/SortManagerProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortManagerProject/src/com/sparta/jack/Printer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BubbleSort/src/com/sparta/jack/BubbleSortClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BubbleSort/src/com/sparta/jack/BubbleSortClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BubbleSort/src/com/sparta/jack/BubbleSortClassNew.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BubbleSort/src/com/sparta/jack/BubbleSortClassNew.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BubbleSort/src/com/sparta/jack/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BubbleSort/src/com/sparta/jack/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InitiasliserActivity/src/com/sparta/jack/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../InitiasliserActivity/src/com/sparta/jack/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fibbonacci/src/com/sparta/jack/FibonacciClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fibbonacci/src/com/sparta/jack/FibonacciClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/helloworld/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/helloworld/com/company/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../~$L notes.docx" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +53,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
