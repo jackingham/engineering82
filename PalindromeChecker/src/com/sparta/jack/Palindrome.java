@@ -8,7 +8,7 @@ public class Palindrome {
         if ((text.charAt(startIndex)) != (text.charAt(endIndex))) {
             return false;
         }
-        if (startIndex < endIndex + 1) {
+        if (startIndex < (endIndex + 1)/2){
             return palindromeChecker(text, startIndex + 1, endIndex - 1);
         }
 

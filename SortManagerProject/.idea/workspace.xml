@@ -20,15 +20,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07532167-e533-4e61-aed9-c279a29fccbf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../PalindromeChecker/src/com/sparta/jack/Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SortManagerProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sparta/jack/Printer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BubbleSort/src/com/sparta/jack/BubbleSortClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BubbleSort/src/com/sparta/jack/BubbleSortClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BubbleSort/src/com/sparta/jack/BubbleSortClassNew.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BubbleSort/src/com/sparta/jack/BubbleSortClassNew.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BubbleSort/src/com/sparta/jack/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BubbleSort/src/com/sparta/jack/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../InitiasliserActivity/src/com/sparta/jack/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../InitiasliserActivity/src/com/sparta/jack/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fibbonacci/src/com/sparta/jack/FibonacciClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fibbonacci/src/com/sparta/jack/FibonacciClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../helloworld/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../helloworld/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SortManagerProject/com/sparta/jack/BubbleSortClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SortManagerProject/com/sparta/jack/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SortManagerProject/com/sparta/jack/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SortManagerProject/com/sparta/jack/Printer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SortManagerProject/com/sparta/jack/Sorter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sparta/jack/BubbleSortClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sparta/jack/sort/BubbleSortClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sparta/jack/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sparta/jack/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sparta/jack/Printer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sparta/jack/utilities/Printer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sparta/jack/Sorter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sparta/jack/sortInterface/Sorter.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,25 +95,25 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1557" height="282" key="GridCell.Tab.0.bottom" timestamp="1616675012791">
-      <screen x="-1600" y="596" width="1600" height="860" />
+    <state width="1877" height="355" key="GridCell.Tab.0.bottom" timestamp="1616774059223">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1557" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1600.596.1600.860@-1600.596.1600.860" timestamp="1616675012791" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1600.596.1600.860@0.0.1920.1040" timestamp="1616670933815" />
-    <state width="1557" height="282" key="GridCell.Tab.0.center" timestamp="1616675012791">
-      <screen x="-1600" y="596" width="1600" height="860" />
+    <state width="1877" height="355" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1600.596.1600.860@0.0.1920.1040" timestamp="1616774059223" />
+    <state width="1877" height="355" key="GridCell.Tab.0.center" timestamp="1616774059223">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1557" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/-1600.596.1600.860@-1600.596.1600.860" timestamp="1616675012791" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/-1600.596.1600.860@0.0.1920.1040" timestamp="1616670933815" />
-    <state width="1557" height="282" key="GridCell.Tab.0.left" timestamp="1616675012791">
-      <screen x="-1600" y="596" width="1600" height="860" />
+    <state width="1877" height="355" key="GridCell.Tab.0.center/0.0.1920.1040/-1600.596.1600.860@0.0.1920.1040" timestamp="1616774059223" />
+    <state width="1877" height="355" key="GridCell.Tab.0.left" timestamp="1616774059223">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1557" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/-1600.596.1600.860@-1600.596.1600.860" timestamp="1616675012791" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/-1600.596.1600.860@0.0.1920.1040" timestamp="1616670933814" />
-    <state width="1557" height="282" key="GridCell.Tab.0.right" timestamp="1616675012791">
-      <screen x="-1600" y="596" width="1600" height="860" />
+    <state width="1877" height="355" key="GridCell.Tab.0.left/0.0.1920.1040/-1600.596.1600.860@0.0.1920.1040" timestamp="1616774059223" />
+    <state width="1877" height="355" key="GridCell.Tab.0.right" timestamp="1616774059223">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1557" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/-1600.596.1600.860@-1600.596.1600.860" timestamp="1616675012791" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/-1600.596.1600.860@0.0.1920.1040" timestamp="1616670933815" />
+    <state width="1877" height="355" key="GridCell.Tab.0.right/0.0.1920.1040/-1600.596.1600.860@0.0.1920.1040" timestamp="1616774059223" />
   </component>
 </project>

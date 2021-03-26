@@ -1,4 +1,7 @@
-package com.sparta.jack;
+package com.sparta.jack.sort;
+
+import com.sparta.jack.sortInterface.Sorter;
+
 public class BubbleSortClass implements Sorter {
 
     public int[] sortArray(int[] numberArray){

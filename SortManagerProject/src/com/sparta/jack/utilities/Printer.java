@@ -1,4 +1,4 @@
-package com.sparta.jack;
+package com.sparta.jack.utilities;
 
 public class Printer {
     public static void printMessage(String message){

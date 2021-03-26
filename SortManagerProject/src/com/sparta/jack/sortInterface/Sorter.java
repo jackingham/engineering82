@@ -1,4 +1,4 @@
-package com.sparta.jack;
+package com.sparta.jack.sortInterface;
 
 public interface Sorter {
 
