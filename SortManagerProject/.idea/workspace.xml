@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -20,15 +23,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07532167-e533-4e61-aed9-c279a29fccbf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Exceptions/Exceptions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exceptions/src/com/sparta/jack/MyException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExceptionsInJava/ExceptionsInJava.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoggingInJava/LoggingInJava/LoggingInJava.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_14_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_core_2_14_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/jack/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/jack/exceptions/ArrayTooSmallException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/jack/interfaces/Sorter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/jack/sort/MergeSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SortManagerProject/com/sparta/jack/BubbleSortClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SortManagerProject/com/sparta/jack/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SortManagerProject/com/sparta/jack/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SortManagerProject/com/sparta/jack/Printer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SortManagerProject/com/sparta/jack/Sorter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sparta/jack/BubbleSortClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sparta/jack/sort/BubbleSortClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sparta/jack/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sparta/jack/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sparta/jack/Printer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sparta/jack/utilities/Printer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sparta/jack/Sorter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sparta/jack/sortInterface/Sorter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SortManagerProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SortManagerProject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SortManagerProject/com/sparta/jack/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SortManagerProject/com/sparta/jack/sort/BubbleSortClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SortManagerProject/com/sparta/jack/sortInterface/Sorter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SortManagerProject/com/sparta/jack/utilities/Printer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sparta/jack/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sparta/jack/sort/BubbleSortClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sparta/jack/sort/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sparta/jack/sortInterface/Sorter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sparta/jack/utilities/Printer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sparta/jack/utilities/Printer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sieveOfEratosthenes/out/production/sieveOfEratosthenes/com/sparta/jack/SieveClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/../sieveOfEratosthenes/out/production/sieveOfEratosthenes/com/sparta/jack/SieveClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sieveOfEratosthenes/src/com/sparta/jack/SieveClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sieveOfEratosthenes/src/com/sparta/jack/SieveClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +66,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="1qFKsfDtp1Q3EI6PcQFi5wve0Xn" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -52,7 +80,13 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../NestedClassesInJava/NestedClassesInJava" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Users\Jack\Documents\Sparta\engineering82\SortManagerProject\resources" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -95,25 +129,42 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1877" height="355" key="GridCell.Tab.0.bottom" timestamp="1616774059223">
+    <state x="681" y="208" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1617113950233">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1557" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1600.596.1600.860@-1600.596.1600.860" timestamp="1616675012791" />
-    <state width="1877" height="355" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1600.596.1600.860@0.0.1920.1040" timestamp="1616774059223" />
-    <state width="1877" height="355" key="GridCell.Tab.0.center" timestamp="1616774059223">
+    <state x="681" y="208" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1920.1040/-1600.596.1600.860@0.0.1920.1040" timestamp="1617113950233" />
+    <state x="494" y="444" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1617115036537">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1557" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/-1600.596.1600.860@-1600.596.1600.860" timestamp="1616675012791" />
-    <state width="1877" height="355" key="GridCell.Tab.0.center/0.0.1920.1040/-1600.596.1600.860@0.0.1920.1040" timestamp="1616774059223" />
-    <state width="1877" height="355" key="GridCell.Tab.0.left" timestamp="1616774059223">
+    <state x="494" y="444" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040/-1600.596.1600.860@0.0.1920.1040" timestamp="1617115036537" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1617117617201">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1557" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/-1600.596.1600.860@-1600.596.1600.860" timestamp="1616675012791" />
-    <state width="1877" height="355" key="GridCell.Tab.0.left/0.0.1920.1040/-1600.596.1600.860@0.0.1920.1040" timestamp="1616774059223" />
-    <state width="1877" height="355" key="GridCell.Tab.0.right" timestamp="1616774059223">
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040/-1600.596.1600.860@0.0.1920.1040" timestamp="1617117617201" />
+    <state width="1877" height="354" key="GridCell.Tab.0.bottom" timestamp="1617184827377">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1557" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/-1600.596.1600.860@-1600.596.1600.860" timestamp="1616675012791" />
-    <state width="1877" height="355" key="GridCell.Tab.0.right/0.0.1920.1040/-1600.596.1600.860@0.0.1920.1040" timestamp="1616774059223" />
+    <state width="1557" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1600.596.1600.860@-1600.596.1600.860" timestamp="1617108268528" />
+    <state width="1877" height="354" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1600.596.1600.860@0.0.1920.1040" timestamp="1617184827377" />
+    <state width="1877" height="354" key="GridCell.Tab.0.center" timestamp="1617184827377">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1557" height="281" key="GridCell.Tab.0.center/0.0.1920.1040/-1600.596.1600.860@-1600.596.1600.860" timestamp="1617108268528" />
+    <state width="1877" height="354" key="GridCell.Tab.0.center/0.0.1920.1040/-1600.596.1600.860@0.0.1920.1040" timestamp="1617184827377" />
+    <state width="1877" height="354" key="GridCell.Tab.0.left" timestamp="1617184827376">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1557" height="281" key="GridCell.Tab.0.left/0.0.1920.1040/-1600.596.1600.860@-1600.596.1600.860" timestamp="1617108268528" />
+    <state width="1877" height="354" key="GridCell.Tab.0.left/0.0.1920.1040/-1600.596.1600.860@0.0.1920.1040" timestamp="1617184827376" />
+    <state width="1877" height="354" key="GridCell.Tab.0.right" timestamp="1617184827377">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1557" height="281" key="GridCell.Tab.0.right/0.0.1920.1040/-1600.596.1600.860@-1600.596.1600.860" timestamp="1617108268528" />
+    <state width="1877" height="354" key="GridCell.Tab.0.right/0.0.1920.1040/-1600.596.1600.860@0.0.1920.1040" timestamp="1617184827377" />
+    <state x="342" y="140" key="new project wizard" timestamp="1617184825868">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1315" y="696" key="new project wizard/0.0.1920.1040/-1600.596.1600.860@-1600.596.1600.860" timestamp="1617108267085" />
+    <state x="342" y="140" key="new project wizard/0.0.1920.1040/-1600.596.1600.860@0.0.1920.1040" timestamp="1617184825868" />
   </component>
 </project>

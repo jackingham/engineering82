@@ -1,0 +1,4 @@
+[ERROR] 2021-03-30 14:47:26.666 [main] App - / by zero
+java.lang.ArithmeticException: / by zero
+	at com.sparta.jack.App.runExceptions(App.java:17) [classes/:?]
+	at com.sparta.jack.App.main(App.java:27) [classes/:?]

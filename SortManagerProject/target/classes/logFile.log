@@ -1,0 +1,90 @@
+[TRACE] 2021-03-31 10:50:55.086 [main] Main - New midpoint is 4 at index 6
+[TRACE] 2021-03-31 10:50:55.090 [main] Main - Array is split into indexes 0-6
+[TRACE] 2021-03-31 10:50:55.090 [main] Main - New midpoint is 45 at index 3
+[TRACE] 2021-03-31 10:50:55.090 [main] Main - Array is split into indexes 0-3
+[TRACE] 2021-03-31 10:50:55.090 [main] Main - New midpoint is 7 at index 1
+[TRACE] 2021-03-31 10:50:55.090 [main] Main - Array is split into indexes 0-1
+[TRACE] 2021-03-31 10:50:55.091 [main] Main - New midpoint is 1 at index 0
+[TRACE] 2021-03-31 10:50:55.091 [main] Main - Array is split into indexes 0-0
+[TRACE] 2021-03-31 10:50:55.091 [main] Main - New midpoint is 1 at index 0
+[TRACE] 2021-03-31 10:50:55.091 [main] Main - Array is split into indexes 1-1
+[TRACE] 2021-03-31 10:50:55.092 [main] Main - New midpoint is 7 at index 1
+[TRACE] 2021-03-31 10:50:55.096 [main] Main - 1 is less than 7
+[TRACE] 2021-03-31 10:50:55.096 [main] Main - Array is split into indexes 2-3
+[TRACE] 2021-03-31 10:50:55.097 [main] Main - New midpoint is 3 at index 2
+[TRACE] 2021-03-31 10:50:55.097 [main] Main - Array is split into indexes 2-2
+[TRACE] 2021-03-31 10:50:55.097 [main] Main - New midpoint is 3 at index 2
+[TRACE] 2021-03-31 10:50:55.097 [main] Main - Array is split into indexes 3-3
+[TRACE] 2021-03-31 10:50:55.097 [main] Main - New midpoint is 45 at index 3
+[TRACE] 2021-03-31 10:50:55.097 [main] Main - 3 is less than 45
+[TRACE] 2021-03-31 10:50:55.097 [main] Main - 1 is less than 3
+[TRACE] 2021-03-31 10:50:55.098 [main] Main - 3 is less than 7
+[TRACE] 2021-03-31 10:50:55.098 [main] Main - 7 is less than 45
+[TRACE] 2021-03-31 10:50:55.098 [main] Main - Array is split into indexes 4-6
+[TRACE] 2021-03-31 10:50:55.098 [main] Main - New midpoint is 6 at index 5
+[TRACE] 2021-03-31 10:50:55.098 [main] Main - Array is split into indexes 4-5
+[TRACE] 2021-03-31 10:50:55.098 [main] Main - New midpoint is 66 at index 4
+[TRACE] 2021-03-31 10:50:55.099 [main] Main - Array is split into indexes 4-4
+[TRACE] 2021-03-31 10:50:55.099 [main] Main - New midpoint is 66 at index 4
+[TRACE] 2021-03-31 10:50:55.099 [main] Main - Array is split into indexes 5-5
+[TRACE] 2021-03-31 10:50:55.099 [main] Main - New midpoint is 6 at index 5
+[TRACE] 2021-03-31 10:50:55.099 [main] Main - 6 is less than 66
+[TRACE] 2021-03-31 10:50:55.099 [main] Main - Array is split into indexes 6-6
+[TRACE] 2021-03-31 10:50:55.099 [main] Main - New midpoint is 4 at index 6
+[TRACE] 2021-03-31 10:50:55.099 [main] Main - 4 is less than 6
+[TRACE] 2021-03-31 10:50:55.100 [main] Main - 1 is less than 4
+[TRACE] 2021-03-31 10:50:55.100 [main] Main - 3 is less than 4
+[TRACE] 2021-03-31 10:50:55.100 [main] Main - 4 is less than 7
+[TRACE] 2021-03-31 10:50:55.100 [main] Main - 6 is less than 7
+[TRACE] 2021-03-31 10:50:55.100 [main] Main - 7 is less than 66
+[TRACE] 2021-03-31 10:50:55.100 [main] Main - 45 is less than 66
+[TRACE] 2021-03-31 10:50:55.101 [main] Main - Array is split into indexes 7-13
+[TRACE] 2021-03-31 10:50:55.101 [main] Main - New midpoint is 67 at index 10
+[TRACE] 2021-03-31 10:50:55.101 [main] Main - Array is split into indexes 7-10
+[TRACE] 2021-03-31 10:50:55.101 [main] Main - New midpoint is 34 at index 8
+[TRACE] 2021-03-31 10:50:55.101 [main] Main - Array is split into indexes 7-8
+[TRACE] 2021-03-31 10:50:55.101 [main] Main - New midpoint is 3 at index 7
+[TRACE] 2021-03-31 10:50:55.102 [main] Main - Array is split into indexes 7-7
+[TRACE] 2021-03-31 10:50:55.102 [main] Main - New midpoint is 3 at index 7
+[TRACE] 2021-03-31 10:50:55.102 [main] Main - Array is split into indexes 8-8
+[TRACE] 2021-03-31 10:50:55.102 [main] Main - New midpoint is 34 at index 8
+[TRACE] 2021-03-31 10:50:55.102 [main] Main - 3 is less than 34
+[TRACE] 2021-03-31 10:50:55.102 [main] Main - Array is split into indexes 9-10
+[TRACE] 2021-03-31 10:50:55.102 [main] Main - New midpoint is 5 at index 9
+[TRACE] 2021-03-31 10:50:55.102 [main] Main - Array is split into indexes 9-9
+[TRACE] 2021-03-31 10:50:55.102 [main] Main - New midpoint is 5 at index 9
+[TRACE] 2021-03-31 10:50:55.103 [main] Main - Array is split into indexes 10-10
+[TRACE] 2021-03-31 10:50:55.103 [main] Main - New midpoint is 67 at index 10
+[TRACE] 2021-03-31 10:50:55.103 [main] Main - 5 is less than 67
+[TRACE] 2021-03-31 10:50:55.103 [main] Main - 3 is less than 5
+[TRACE] 2021-03-31 10:50:55.104 [main] Main - 5 is less than 34
+[TRACE] 2021-03-31 10:50:55.104 [main] Main - 34 is less than 67
+[TRACE] 2021-03-31 10:50:55.104 [main] Main - Array is split into indexes 11-13
+[TRACE] 2021-03-31 10:50:55.104 [main] Main - New midpoint is 754 at index 12
+[TRACE] 2021-03-31 10:50:55.104 [main] Main - Array is split into indexes 11-12
+[TRACE] 2021-03-31 10:50:55.104 [main] Main - New midpoint is 7 at index 11
+[TRACE] 2021-03-31 10:50:55.104 [main] Main - Array is split into indexes 11-11
+[TRACE] 2021-03-31 10:50:55.104 [main] Main - New midpoint is 7 at index 11
+[TRACE] 2021-03-31 10:50:55.105 [main] Main - Array is split into indexes 12-12
+[TRACE] 2021-03-31 10:50:55.105 [main] Main - New midpoint is 754 at index 12
+[TRACE] 2021-03-31 10:50:55.105 [main] Main - 7 is less than 754
+[TRACE] 2021-03-31 10:50:55.105 [main] Main - Array is split into indexes 13-13
+[TRACE] 2021-03-31 10:50:55.105 [main] Main - New midpoint is 345 at index 13
+[TRACE] 2021-03-31 10:50:55.105 [main] Main - 7 is less than 345
+[TRACE] 2021-03-31 10:50:55.105 [main] Main - 345 is less than 754
+[TRACE] 2021-03-31 10:50:55.105 [main] Main - 3 is less than 7
+[TRACE] 2021-03-31 10:50:55.105 [main] Main - 5 is less than 7
+[TRACE] 2021-03-31 10:50:55.106 [main] Main - 7 is less than 34
+[TRACE] 2021-03-31 10:50:55.106 [main] Main - 34 is less than 345
+[TRACE] 2021-03-31 10:50:55.106 [main] Main - 67 is less than 345
+[TRACE] 2021-03-31 10:50:55.106 [main] Main - 1 is less than 3
+[TRACE] 2021-03-31 10:50:55.106 [main] Main - 3 is less than 3
+[TRACE] 2021-03-31 10:50:55.107 [main] Main - 3 is less than 5
+[TRACE] 2021-03-31 10:50:55.107 [main] Main - 4 is less than 5
+[TRACE] 2021-03-31 10:50:55.107 [main] Main - 5 is less than 6
+[TRACE] 2021-03-31 10:50:55.107 [main] Main - 6 is less than 7
+[TRACE] 2021-03-31 10:50:55.108 [main] Main - 7 is less than 7
+[TRACE] 2021-03-31 10:50:55.108 [main] Main - 7 is less than 34
+[TRACE] 2021-03-31 10:50:55.108 [main] Main - 34 is less than 45
+[TRACE] 2021-03-31 10:50:55.108 [main] Main - 45 is less than 67
+[TRACE] 2021-03-31 10:50:55.108 [main] Main - 66 is less than 67
